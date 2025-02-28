@@ -20,3 +20,5 @@ Open [http://localhost:3000](http://localhost:3000) , works fine.
 ```npm run build```
 
 bug: build generates 0 B files for parellel routes only when there's a catch all route exists
+
+<img width="607" alt="build-0B" src="https://github.com/user-attachments/assets/8183f4a1-1923-49c0-ac80-f1833caed52a" />
