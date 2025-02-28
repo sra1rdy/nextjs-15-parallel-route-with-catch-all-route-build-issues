@@ -11,8 +11,8 @@ const Layout = async (props: LayoutProps) => {
 
     return (
         <div>
-            {/* eslint-disable-next-line no-constant-condition */}
-            {false ? legacy : modern}
+            {legacy}
+            {modern}
         </div>
     );
 };
