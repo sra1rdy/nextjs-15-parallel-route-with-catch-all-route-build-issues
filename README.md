@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Build
 ```npm run build```
 
-bug: build generates 0 B files for parellel routes
+bug: build generates 0 B files for parellel routes only when there's a catch all route exists
