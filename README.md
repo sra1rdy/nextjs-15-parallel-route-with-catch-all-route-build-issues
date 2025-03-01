@@ -23,7 +23,7 @@ bug: build generates 0 B files for parellel routes only when there's a catch all
 
 ### build with catch all and parallel route slot with dynamic segment
 
-<img width="615" alt="slot-dynamic" src="https://github.com/user-attachments/assets/e33bc660-b0f0-482b-a1b9-0f76b9d14104" />
+<img width="619" alt="catch-all-dynamic" src="https://github.com/user-attachments/assets/b18543f0-f8df-4c25-b4d4-f30d47b4c5af" />
 
 ### build without catch all segment
 
