@@ -21,6 +21,10 @@ Open [http://localhost:3000](http://localhost:3000) , works fine.
 
 bug: build generates 0 B files for parellel routes only when there's a catch all route exists
 
-<img width="603" alt="build-fail-parallel-w-catch-all" src="https://github.com/user-attachments/assets/7a3508e1-6837-49fe-a46b-a06c6f25b0ef" />
+### build with catch all and parallel route slot with dynamic segment
 
-<img width="603" alt="build-wo-catch-all-route" src="https://github.com/user-attachments/assets/a257ae6c-cdcb-43e5-9d3a-f9e8ac274e23" />
+<img width="615" alt="slot-dynamic" src="https://github.com/user-attachments/assets/e33bc660-b0f0-482b-a1b9-0f76b9d14104" />
+
+### build without catch all segment
+
+<img width="619" alt="no-catch-all" src="https://github.com/user-attachments/assets/2e891e33-5563-481c-b717-9cb9d13bf473" />
